@@ -1,0 +1,23 @@
+{
+ "content": null,
+ "creation": "2022-06-16 18:15:54.863214",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2022-06-16 18:15:54.863214",
+ "modified_by": "Administrator",
+ "module": "Library Management",
+ "name": "testpage",
+ "owner": "Administrator",
+ "page_name": "testpage",
+ "restrict_to_domain": "",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0
+}

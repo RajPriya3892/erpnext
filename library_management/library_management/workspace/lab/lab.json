@@ -1,0 +1,41 @@
+{
+ "charts": [
+  {
+   "chart_name": "Job Application Status",
+   "label": "Job Applications"
+  }
+ ],
+ "content": "[]",
+ "creation": "2022-07-25 11:04:19.088191",
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "hide_custom": 0,
+ "icon": "healthcare",
+ "idx": 0,
+ "label": "Lab",
+ "links": [],
+ "modified": "2022-07-25 11:05:48.169911",
+ "modified_by": "Administrator",
+ "module": "Library Management",
+ "name": "Lab",
+ "owner": "Administrator",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 0.0,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "Library Member",
+   "link_to": "Library Member",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Library Membership",
+   "link_to": "Library_membership",
+   "type": "DocType"
+  }
+ ],
+ "title": "Lab"
+}
